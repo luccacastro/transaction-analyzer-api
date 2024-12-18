@@ -195,7 +195,7 @@ class TransactionAnalyzerApplicationTests {
         Mockito.when(transactionService.getMinAmountForCategory(eq(category), any(LocalDate.class), any(LocalDate.class)))
                 .thenReturn(response);
 
-        mockMvc.perform(get("/api/transactions/categories/{category}/min/range", category)
+        mockMvc.perform(get("/api/transactions/categories/{category}/min", category)
                         .param("startDate", "2024-01-01")
                         .param("endDate", "2024-06-01"))
                 .andExpect(status().isOk())

@@ -81,7 +81,7 @@ public class TransactionController {
 
     @Operation(summary = "Get minimum spend for a category within a date range",
             description = "Finds the single lowest spend transaction for the specified category between the given start and end dates.")
-    @GetMapping("/categories/{category}/min/range")
+    @GetMapping("/categories/{category}/min")
     public MinAmountDTO getMinAmountForCategory(
             @Parameter(description = "The category to analyze") @PathVariable String category,
             @Parameter(description = "The start date for the calculation (default: 1970-01-01)")
