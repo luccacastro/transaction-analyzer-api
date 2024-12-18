@@ -47,11 +47,4 @@ public class GlobalExceptionHandler {
         return new ResponseEntity<>(createErrorResponse(ex.getMessage(), HttpStatus.BAD_REQUEST), HttpStatus.BAD_REQUEST);
     }
 
-//    @ExceptionHandler(Exception.class)
-//    public ResponseEntity<Map<String, Object>> handleGenericException(Exception ex) {
-//        return new ResponseEntity<>(
-//                createErrorResponse(ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR),
-//                HttpStatus.INTERNAL_SERVER_ERROR
-//        );
-//    }
 }
