@@ -28,7 +28,8 @@ public class TransactionController {
     }
 
     @Operation(summary = "Get all transactions for a given category",
-            description = "Returns a list of all transactions associated with the specified category.")
+            description = "Returns a list of all transactions associated with the specified category. "
+                    + "If the category doesn't exist, a 404 error will be returned.")
     @GetMapping("/categories/{category}")
     public CategoryTransactionsDTO getTransactionsByCategory(
             @Parameter(description = "The category to filter transactions")
@@ -38,7 +39,8 @@ public class TransactionController {
     }
 
     @Operation(summary = "Get total outgoing for a category within a date range",
-            description = "Calculates the total outgoing amount for the specified category between the given start and end dates.")
+            description = "Calculates the total outgoing amount for the specified category between the given start and end dates. "
+                    + "If no date range is provided, the calculation will include all transactions for the category since 1970.")
     @GetMapping("/categories/{category}/total")
     public CategoryTotalDTO getTotalOutgoingForCategory(
             @Parameter(description = "The category to analyze")
@@ -53,7 +55,8 @@ public class TransactionController {
     }
 
     @Operation(summary = "Get monthly average spend for a category over a year",
-            description = "Calculates the monthly average spend for a given year. The range is automatically set from January 1st to December 31st.")
+            description = "Calculates the monthly average spend for the specified category in the given year. "
+                    + "The range is automatically set from January 1st to December 31st of the specified year.")
     @GetMapping("/categories/{category}/monthly-average/{year}")
     public MonthlyAverageDTO getMonthlyAverageSpendForCategory(
             @Parameter(description = "The category to analyze") @PathVariable String category,
@@ -66,7 +69,8 @@ public class TransactionController {
     }
 
     @Operation(summary = "Get maximum spend for a category within a date range",
-            description = "Finds the single highest spend transaction for the specified category between the given start and end dates.")
+            description = "Finds the highest single spend transaction for the specified category between the given start and end dates. "
+                    + "If no dates are provided, all transactions for the category since 1970 will be considered.")
     @GetMapping("/categories/{category}/max")
     public MaxAmountDTO getMaxAmountForCategory(
             @Parameter(description = "The category to analyze") @PathVariable String category,
@@ -80,7 +84,8 @@ public class TransactionController {
     }
 
     @Operation(summary = "Get minimum spend for a category within a date range",
-            description = "Finds the single lowest spend transaction for the specified category between the given start and end dates.")
+            description = "Finds the lowest single spend transaction for the specified category between the given start and end dates. "
+                    + "If no dates are provided, all transactions for the category since 1970 will be considered.")
     @GetMapping("/categories/{category}/min")
     public MinAmountDTO getMinAmountForCategory(
             @Parameter(description = "The category to analyze") @PathVariable String category,
