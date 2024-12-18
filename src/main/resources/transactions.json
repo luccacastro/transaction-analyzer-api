@@ -1,0 +1,3502 @@
+[
+    {
+        "date": "2021-09-23",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 423.49,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-01-02",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 234.55,
+        "category": "Health"
+    },
+    {
+        "date": "2020-02-16",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 158.77,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-07-15",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 269.38,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-02-27",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 18.49,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-07-29",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 267.3,
+        "category": "Health"
+    },
+    {
+        "date": "2021-02-19",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 230.69,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-04-06",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 18.36,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-01-28",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 386.41,
+        "category": "Health"
+    },
+    {
+        "date": "2020-06-17",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 161.29,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-02-22",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 116.8,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-07-31",
+        "vendor": "Landlord",
+        "product": "Electricity",
+        "amount": 326.44,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-05-09",
+        "vendor": "Landlord",
+        "product": "Rent Payment",
+        "amount": 472.16,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-07-30",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 44.02,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-06-26",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 89.47,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-03-09",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 308.35,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-07-07",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 382.01,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-01-12",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 53.11,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-06-06",
+        "vendor": "Landlord",
+        "product": "Electricity",
+        "amount": 104.57,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-07-10",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 352.21,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-09-15",
+        "vendor": "British Gas",
+        "product": "Rent Payment",
+        "amount": 94.92,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-06-22",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 189.65,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-12-10",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 243.35,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-01-04",
+        "vendor": "Landlord",
+        "product": "Rent Payment",
+        "amount": 93.73,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-06-13",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 275.61,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-08-21",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 389.07,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-04-16",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 364.75,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-06-19",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 262.77,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-05-19",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 197.94,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-06-01",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 464.32,
+        "category": "Health"
+    },
+    {
+        "date": "2020-11-14",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 10.79,
+        "category": "Health"
+    },
+    {
+        "date": "2022-08-18",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 468.85,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-01-26",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 450.36,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-09-08",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 497.19,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-09-06",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 499.86,
+        "category": "Health"
+    },
+    {
+        "date": "2022-03-05",
+        "vendor": "PureGym",
+        "product": "Gym Subscription",
+        "amount": 202.05,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-06-07",
+        "vendor": "British Gas",
+        "product": "Rent Payment",
+        "amount": 11.37,
+        "category": "Health"
+    },
+    {
+        "date": "2022-02-21",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 226.77,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-01-12",
+        "vendor": "PureGym",
+        "product": "Electricity",
+        "amount": 163.62,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-09-19",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 492.94,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-13",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 448.06,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-02-06",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 352.53,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-03-24",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 244.41,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-06-06",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 467.17,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-06-09",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 398.3,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-03-12",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 98.32,
+        "category": "Health"
+    },
+    {
+        "date": "2020-07-19",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 190.6,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-07-27",
+        "vendor": "Landlord",
+        "product": "Groceries",
+        "amount": 270.51,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-07-28",
+        "vendor": "Landlord",
+        "product": "Rent Payment",
+        "amount": 256.34,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-01-13",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 341.51,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-12-09",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 201.6,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-05-03",
+        "vendor": "British Gas",
+        "product": "Rent Payment",
+        "amount": 42.01,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-08-15",
+        "vendor": "Airbnb",
+        "product": "Flight",
+        "amount": 229.45,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-12",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 453.58,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-05-22",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 471.86,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-09-22",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 166.28,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-06-09",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 193.55,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-07-02",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 118.28,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-02-01",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 434.55,
+        "category": "Health"
+    },
+    {
+        "date": "2020-02-28",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 183.3,
+        "category": "Health"
+    },
+    {
+        "date": "2022-02-12",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 473.96,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-12-29",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 301.42,
+        "category": "Health"
+    },
+    {
+        "date": "2022-02-25",
+        "vendor": "Pharmacy",
+        "product": "Electricity",
+        "amount": 34.27,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-04-02",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 129.72,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-01-25",
+        "vendor": "PureGym",
+        "product": "Gym Subscription",
+        "amount": 283.89,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-03-25",
+        "vendor": "Pharmacy",
+        "product": "Electricity",
+        "amount": 268.38,
+        "category": "Health"
+    },
+    {
+        "date": "2020-04-15",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 321.94,
+        "category": "Health"
+    },
+    {
+        "date": "2020-02-16",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 223.78,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-07-18",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 141.91,
+        "category": "Health"
+    },
+    {
+        "date": "2021-05-20",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 403.84,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-01-20",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 497.51,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-06-11",
+        "vendor": "Landlord",
+        "product": "Rent Payment",
+        "amount": 328.02,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-07-02",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 151.23,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-03-09",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 216.6,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-09-24",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 277.24,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-02-03",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 24.78,
+        "category": "Health"
+    },
+    {
+        "date": "2020-04-07",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 56.22,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-11-20",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 124.23,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-05-12",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 249.21,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-03-12",
+        "vendor": "Airbnb",
+        "product": "Flight",
+        "amount": 485.55,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-01-20",
+        "vendor": "British Gas",
+        "product": "Rent Payment",
+        "amount": 280.35,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-03-13",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 345.79,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-03-25",
+        "vendor": "Airbnb",
+        "product": "Flight",
+        "amount": 384.75,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-07-26",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 62.08,
+        "category": "Health"
+    },
+    {
+        "date": "2020-06-13",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 384.35,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-04-29",
+        "vendor": "PureGym",
+        "product": "Medication",
+        "amount": 420.4,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-12-06",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 14.8,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-08-20",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 328.34,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-11-24",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 49.41,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-09-19",
+        "vendor": "PureGym",
+        "product": "Gym Subscription",
+        "amount": 9.71,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-10-17",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 235.9,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-03-16",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 95.65,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-05-15",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 363.46,
+        "category": "Health"
+    },
+    {
+        "date": "2021-01-28",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 223.51,
+        "category": "Health"
+    },
+    {
+        "date": "2020-05-18",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 80.58,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-08-18",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 114.73,
+        "category": "Health"
+    },
+    {
+        "date": "2022-06-22",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 237.27,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-08",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 164.8,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-06-19",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 176.56,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-06-25",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 463.64,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-12-07",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 487.2,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-08-15",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 224.28,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-09-27",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 303.2,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-03-04",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 231.1,
+        "category": "Health"
+    },
+    {
+        "date": "2020-01-20",
+        "vendor": "Landlord",
+        "product": "Rent Payment",
+        "amount": 261.11,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-08-29",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 204.5,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-05-11",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 476.13,
+        "category": "Health"
+    },
+    {
+        "date": "2021-06-04",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 406.87,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-10-01",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 457.39,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-09-27",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 414.3,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-09-03",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 222.39,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-06-17",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 329.85,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-02-24",
+        "vendor": "Landlord",
+        "product": "Rent Payment",
+        "amount": 6.29,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-08-18",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 469.48,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-10-14",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 393.03,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-09-01",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 201.74,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-11-27",
+        "vendor": "Landlord",
+        "product": "Electricity",
+        "amount": 363.89,
+        "category": "Health"
+    },
+    {
+        "date": "2020-09-29",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 335.61,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-02-17",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 184.09,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-05-15",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 486.17,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-08-17",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 302.26,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-04-24",
+        "vendor": "PureGym",
+        "product": "Gym Subscription",
+        "amount": 286.2,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-04-20",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 180.56,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-05-07",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 438.43,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-02-26",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 15.01,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-01-23",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 365.47,
+        "category": "Health"
+    },
+    {
+        "date": "2021-03-01",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 461.94,
+        "category": "Health"
+    },
+    {
+        "date": "2020-07-05",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 292.79,
+        "category": "Health"
+    },
+    {
+        "date": "2021-12-25",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 255.15,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-05-15",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 470.9,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-02-03",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 72.89,
+        "category": "Health"
+    },
+    {
+        "date": "2022-05-27",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 467.64,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-09-08",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 55.38,
+        "category": "Health"
+    },
+    {
+        "date": "2020-06-17",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 177.85,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-09-03",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 467.15,
+        "category": "Health"
+    },
+    {
+        "date": "2022-03-08",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 233.69,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-03-31",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 346.32,
+        "category": "Health"
+    },
+    {
+        "date": "2021-12-20",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 215.62,
+        "category": "Health"
+    },
+    {
+        "date": "2020-11-25",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 164.56,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-26",
+        "vendor": "PureGym",
+        "product": "Gym Subscription",
+        "amount": 401.23,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-04-08",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 450.02,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-10-13",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 404.5,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-04-02",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 54.67,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-12-18",
+        "vendor": "PureGym",
+        "product": "Medication",
+        "amount": 88.62,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-28",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 465.12,
+        "category": "Health"
+    },
+    {
+        "date": "2022-09-08",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 401.02,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-03-24",
+        "vendor": "PureGym",
+        "product": "Gym Subscription",
+        "amount": 281.77,
+        "category": "Health"
+    },
+    {
+        "date": "2020-11-21",
+        "vendor": "Airbnb",
+        "product": "Flight",
+        "amount": 126.32,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-08-26",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 405.57,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-10-29",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 196.6,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-06-17",
+        "vendor": "Landlord",
+        "product": "Groceries",
+        "amount": 119.93,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-04-19",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 492.97,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-05-26",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 249.31,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-03-18",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 465.53,
+        "category": "Health"
+    },
+    {
+        "date": "2022-03-17",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 462.0,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-08-15",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 65.26,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-03-07",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 49.14,
+        "category": "Health"
+    },
+    {
+        "date": "2021-05-29",
+        "vendor": "PureGym",
+        "product": "Medication",
+        "amount": 226.74,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-07-02",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 31.29,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-05-03",
+        "vendor": "Landlord",
+        "product": "Groceries",
+        "amount": 264.82,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-11-03",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 113.07,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-02-19",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 443.6,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-05-28",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 268.39,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-07-25",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 464.07,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-08-19",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 394.94,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-08-12",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 316.6,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-02-19",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 350.33,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-02-24",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 155.96,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-05-07",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 212.57,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-09-14",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 52.77,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-10-16",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 81.21,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-07-14",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 367.86,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-12-13",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 412.33,
+        "category": "Health"
+    },
+    {
+        "date": "2020-10-29",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 281.03,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-04-24",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 339.36,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-12-04",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 81.59,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-06-17",
+        "vendor": "Airbnb",
+        "product": "Rent Payment",
+        "amount": 407.64,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-01-23",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 337.54,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-12",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 208.26,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-12-30",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 143.51,
+        "category": "Health"
+    },
+    {
+        "date": "2020-04-23",
+        "vendor": "PureGym",
+        "product": "Gym Subscription",
+        "amount": 154.71,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-07-03",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 374.54,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-10-26",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 31.86,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-05-11",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 128.86,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-09-10",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 135.66,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-05-09",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 267.05,
+        "category": "Health"
+    },
+    {
+        "date": "2021-04-02",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 233.05,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-05-27",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 9.86,
+        "category": "Health"
+    },
+    {
+        "date": "2022-02-02",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 257.95,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-01-17",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 146.11,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-01-03",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 48.47,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-07-13",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 366.58,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-12-17",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 199.09,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-09-15",
+        "vendor": "PureGym",
+        "product": "Medication",
+        "amount": 226.71,
+        "category": "Health"
+    },
+    {
+        "date": "2020-10-01",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 384.92,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-07-20",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 146.39,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-08-28",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 180.86,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-04-25",
+        "vendor": "Landlord",
+        "product": "Rent Payment",
+        "amount": 73.61,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-01-23",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 380.45,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-08-13",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 396.79,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-01-12",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 370.62,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-05-07",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 101.26,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-10-19",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 43.88,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-03-31",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 370.4,
+        "category": "Health"
+    },
+    {
+        "date": "2021-10-03",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 240.9,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-05-02",
+        "vendor": "PureGym",
+        "product": "Medication",
+        "amount": 314.75,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-04-30",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 85.65,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-10-07",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 458.76,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-06-09",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 130.0,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-02-04",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 146.79,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-02-04",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 111.69,
+        "category": "Health"
+    },
+    {
+        "date": "2022-03-25",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 154.6,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-06-06",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 15.77,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-04-04",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 36.41,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-09-09",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 141.48,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-04-11",
+        "vendor": "Airbnb",
+        "product": "Flight",
+        "amount": 487.96,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-08-06",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 299.12,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-12-26",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 309.62,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-09-15",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 309.54,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-02-05",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 84.11,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-05-04",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 205.34,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-02-27",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 340.18,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-28",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 122.39,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-09-16",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 478.68,
+        "category": "Health"
+    },
+    {
+        "date": "2020-07-21",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 6.41,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-05-18",
+        "vendor": "Pharmacy",
+        "product": "Electricity",
+        "amount": 152.7,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-05-18",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 240.67,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-10-13",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 137.45,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-01-31",
+        "vendor": "Pharmacy",
+        "product": "Electricity",
+        "amount": 343.9,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-05-15",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 48.53,
+        "category": "Health"
+    },
+    {
+        "date": "2022-05-10",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 345.04,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-09-08",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 25.89,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-04-12",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 83.29,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-09-19",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 247.87,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-06-09",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 479.5,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-07-05",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 311.79,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-03-17",
+        "vendor": "Landlord",
+        "product": "Electricity",
+        "amount": 235.38,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-08-06",
+        "vendor": "PureGym",
+        "product": "Electricity",
+        "amount": 177.28,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-01-06",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 375.63,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-10-30",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 340.09,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-03-03",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 115.91,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-08-07",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 50.8,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-10-12",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 365.59,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-03-26",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 471.31,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-12-13",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 363.91,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-04-20",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 49.77,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-12-25",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 478.17,
+        "category": "Health"
+    },
+    {
+        "date": "2020-09-02",
+        "vendor": "Airbnb",
+        "product": "Rent Payment",
+        "amount": 425.39,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-10-26",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 477.54,
+        "category": "Health"
+    },
+    {
+        "date": "2021-09-26",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 461.57,
+        "category": "Health"
+    },
+    {
+        "date": "2021-02-11",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 401.6,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-09-19",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 407.0,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-05-30",
+        "vendor": "PureGym",
+        "product": "Electricity",
+        "amount": 51.57,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-07-29",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 365.69,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-03-22",
+        "vendor": "Airbnb",
+        "product": "Flight",
+        "amount": 63.91,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-06-05",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 239.26,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-04-11",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 6.35,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-06-12",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 50.61,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-09-09",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 11.91,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-10-31",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 187.71,
+        "category": "Health"
+    },
+    {
+        "date": "2020-08-04",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 234.63,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-07-19",
+        "vendor": "British Gas",
+        "product": "Rent Payment",
+        "amount": 276.51,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-09-26",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 100.13,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-08-03",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 197.44,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-05-30",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 447.53,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-10-04",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 385.48,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-07-19",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 363.17,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-09-24",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 287.81,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-03-21",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 446.44,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-10-16",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 344.87,
+        "category": "Health"
+    },
+    {
+        "date": "2020-12-25",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 278.28,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-07-07",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 323.41,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-02-19",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 144.56,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-08-30",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 274.88,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-08-09",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 145.29,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-03-17",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 99.37,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-06-13",
+        "vendor": "PureGym",
+        "product": "Electricity",
+        "amount": 495.27,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-10-10",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 258.57,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-02-18",
+        "vendor": "British Gas",
+        "product": "Rent Payment",
+        "amount": 52.75,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-10-14",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 490.31,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-10-24",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 155.83,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-06-01",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 366.04,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-06-22",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 289.95,
+        "category": "Health"
+    },
+    {
+        "date": "2020-08-29",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 255.95,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-04-26",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 185.18,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-05-11",
+        "vendor": "British Gas",
+        "product": "Flight",
+        "amount": 180.24,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-02-14",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 372.11,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-11-08",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 147.5,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-03-12",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 321.36,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-04-18",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 292.34,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-12-22",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 205.61,
+        "category": "Health"
+    },
+    {
+        "date": "2020-03-13",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 249.47,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-07-10",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 432.33,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-10-03",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 197.04,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-09-07",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 30.42,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-07-04",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 370.56,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-01-06",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 469.47,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-09-14",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 248.43,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-05-07",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 146.91,
+        "category": "Health"
+    },
+    {
+        "date": "2020-05-16",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 446.28,
+        "category": "Health"
+    },
+    {
+        "date": "2022-01-05",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 227.65,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-10-02",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 133.61,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-10-28",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 343.08,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-04-28",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 182.44,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-03-12",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 219.42,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-02-25",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 159.67,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-08-17",
+        "vendor": "British Gas",
+        "product": "Rent Payment",
+        "amount": 158.72,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-07-24",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 400.46,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-09-12",
+        "vendor": "Landlord",
+        "product": "Groceries",
+        "amount": 227.59,
+        "category": "Health"
+    },
+    {
+        "date": "2022-01-25",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 499.38,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-02-16",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 314.26,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-11-24",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 421.59,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-10-25",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 347.14,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-08-02",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 432.66,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-12-01",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 45.08,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-07-21",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 390.76,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-05-31",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 439.54,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-05-12",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 431.63,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-08-11",
+        "vendor": "Pharmacy",
+        "product": "Electricity",
+        "amount": 75.17,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-10-08",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 267.9,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-03-26",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 384.18,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-07-12",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 477.28,
+        "category": "Health"
+    },
+    {
+        "date": "2021-04-07",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 291.69,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-10-03",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 203.34,
+        "category": "Health"
+    },
+    {
+        "date": "2020-07-14",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 340.08,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-10-21",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 222.07,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-01-05",
+        "vendor": "Airbnb",
+        "product": "Rent Payment",
+        "amount": 313.22,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-02-16",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 421.23,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-05-30",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 232.1,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-05-06",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 58.51,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-02-20",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 482.38,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-05-11",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 289.06,
+        "category": "Health"
+    },
+    {
+        "date": "2022-03-31",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 300.07,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-01-07",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 368.55,
+        "category": "Health"
+    },
+    {
+        "date": "2022-08-07",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 305.88,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-06-04",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 492.59,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-12-28",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 82.9,
+        "category": "Health"
+    },
+    {
+        "date": "2020-05-09",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 274.64,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-02-04",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 71.68,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-04-02",
+        "vendor": "British Gas",
+        "product": "Electricity",
+        "amount": 147.11,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-05-20",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 49.57,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-08-09",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 327.52,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-12-13",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 375.46,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-12-19",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 330.96,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-03-11",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 237.52,
+        "category": "Health"
+    },
+    {
+        "date": "2022-02-06",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 357.21,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-03-29",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 349.18,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-07-21",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 320.21,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-08-18",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 295.21,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-05-01",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 333.54,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-08-26",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 473.47,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-03-11",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 323.95,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-11-24",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 401.53,
+        "category": "Health"
+    },
+    {
+        "date": "2020-11-11",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 44.24,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-06-23",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 54.6,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-02-15",
+        "vendor": "Netflix",
+        "product": "Groceries",
+        "amount": 179.55,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-05-16",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 352.6,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-12-23",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 467.75,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-10-27",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 357.18,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-05-27",
+        "vendor": "PureGym",
+        "product": "Medication",
+        "amount": 299.86,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-04-13",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 116.9,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-04-06",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 307.79,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-04-15",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 76.1,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-01-27",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 323.51,
+        "category": "Health"
+    },
+    {
+        "date": "2021-05-29",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 275.44,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-08-06",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 146.87,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-04-24",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 239.25,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-03-15",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 445.85,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-02-25",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 411.78,
+        "category": "Health"
+    },
+    {
+        "date": "2021-10-11",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 191.53,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-10-25",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 225.33,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-09-06",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 288.29,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-04-06",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 236.35,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-07-28",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 266.59,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-02-19",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 257.53,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-06-21",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 269.46,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-03-21",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 201.32,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-04-21",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 59.95,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-03-24",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 392.58,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-04-24",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 352.59,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-04-12",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 237.66,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-03-15",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 255.09,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-04-25",
+        "vendor": "Airbnb",
+        "product": "Gym Subscription",
+        "amount": 284.1,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-10-18",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 114.37,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-02-19",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 316.65,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-03-13",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 139.37,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-01-10",
+        "vendor": "Pharmacy",
+        "product": "Groceries",
+        "amount": 359.85,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-05-14",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 491.48,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-04-29",
+        "vendor": "Morrisons",
+        "product": "Flight",
+        "amount": 442.24,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-04-09",
+        "vendor": "Landlord",
+        "product": "Electricity",
+        "amount": 468.22,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-03-02",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 444.47,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-08-31",
+        "vendor": "Landlord",
+        "product": "Streaming",
+        "amount": 482.53,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-01-07",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 12.57,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-01-22",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 385.7,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-01-07",
+        "vendor": "Airbnb",
+        "product": "Rent Payment",
+        "amount": 9.83,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-05-16",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 41.04,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-08-17",
+        "vendor": "Netflix",
+        "product": "Electricity",
+        "amount": 105.54,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-08-31",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 318.16,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-02-25",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 65.16,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-10-12",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 494.07,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-03-20",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 42.82,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-10-10",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 270.8,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-04-11",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 152.42,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-09-08",
+        "vendor": "British Gas",
+        "product": "Flight",
+        "amount": 405.8,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-09-05",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 451.28,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-09-16",
+        "vendor": "Morrisons",
+        "product": "Electricity",
+        "amount": 440.96,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-09-05",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 446.69,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-04-27",
+        "vendor": "British Gas",
+        "product": "Flight",
+        "amount": 445.35,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-09-22",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 238.2,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-09-14",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 204.11,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-02-14",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 370.79,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-08-12",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 279.56,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-06-06",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 154.23,
+        "category": "Health"
+    },
+    {
+        "date": "2021-06-29",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 352.12,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-07-27",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 465.24,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-10-08",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 356.39,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-11-11",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 77.32,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-02-27",
+        "vendor": "British Gas",
+        "product": "Medication",
+        "amount": 285.45,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-08-10",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 132.15,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-07-24",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 128.85,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-03-19",
+        "vendor": "PureGym",
+        "product": "Groceries",
+        "amount": 135.04,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-03-11",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 191.5,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-04-07",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 253.41,
+        "category": "Health"
+    },
+    {
+        "date": "2022-07-07",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 161.89,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-03-20",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 92.34,
+        "category": "Health"
+    },
+    {
+        "date": "2021-06-22",
+        "vendor": "British Gas",
+        "product": "Flight",
+        "amount": 47.33,
+        "category": "Health"
+    },
+    {
+        "date": "2021-02-05",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 340.94,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-09-08",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 296.66,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-11-23",
+        "vendor": "Airbnb",
+        "product": "Electricity",
+        "amount": 344.54,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-09-23",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 248.63,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-11-28",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 19.48,
+        "category": "Fitness"
+    },
+    {
+        "date": "2022-04-26",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 85.9,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-09-06",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 56.34,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-03-04",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 284.14,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-08-31",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 234.88,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-12-15",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 418.3,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-07-02",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 337.08,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-06-20",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 194.67,
+        "category": "Groceries"
+    },
+    {
+        "date": "2021-01-13",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 253.05,
+        "category": "Health"
+    },
+    {
+        "date": "2022-02-08",
+        "vendor": "Landlord",
+        "product": "Flight",
+        "amount": 179.87,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-04-18",
+        "vendor": "Morrisons",
+        "product": "Streaming",
+        "amount": 460.68,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-10-30",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 58.12,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-08-10",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 229.68,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-01-15",
+        "vendor": "British Gas",
+        "product": "Flight",
+        "amount": 424.1,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-07-21",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 426.35,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-02-18",
+        "vendor": "British Gas",
+        "product": "Streaming",
+        "amount": 451.79,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-08-04",
+        "vendor": "British Gas",
+        "product": "Flight",
+        "amount": 94.86,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-01-05",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 401.09,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-08-09",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 167.15,
+        "category": "Health"
+    },
+    {
+        "date": "2021-11-24",
+        "vendor": "Morrisons",
+        "product": "Medication",
+        "amount": 470.24,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-03-13",
+        "vendor": "Morrisons",
+        "product": "Gym Subscription",
+        "amount": 214.59,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-07-12",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 20.34,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-02-26",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 39.37,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-04-03",
+        "vendor": "PureGym",
+        "product": "Rent Payment",
+        "amount": 45.39,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-07-15",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 435.26,
+        "category": "Health"
+    },
+    {
+        "date": "2022-01-17",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 480.67,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-06-08",
+        "vendor": "Landlord",
+        "product": "Electricity",
+        "amount": 477.14,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-08-30",
+        "vendor": "Pharmacy",
+        "product": "Electricity",
+        "amount": 97.2,
+        "category": "Groceries"
+    },
+    {
+        "date": "2022-07-28",
+        "vendor": "Netflix",
+        "product": "Medication",
+        "amount": 5.39,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-03-12",
+        "vendor": "Pharmacy",
+        "product": "Rent Payment",
+        "amount": 307.3,
+        "category": "Health"
+    },
+    {
+        "date": "2022-01-10",
+        "vendor": "Airbnb",
+        "product": "Rent Payment",
+        "amount": 65.13,
+        "category": "Rent"
+    },
+    {
+        "date": "2021-06-24",
+        "vendor": "PureGym",
+        "product": "Electricity",
+        "amount": 196.5,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-02-05",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 378.36,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-01-16",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 18.94,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-05-04",
+        "vendor": "PureGym",
+        "product": "Medication",
+        "amount": 423.2,
+        "category": "Health"
+    },
+    {
+        "date": "2021-01-05",
+        "vendor": "Netflix",
+        "product": "Rent Payment",
+        "amount": 187.86,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-09-20",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 306.94,
+        "category": "Health"
+    },
+    {
+        "date": "2021-06-22",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 226.64,
+        "category": "Health"
+    },
+    {
+        "date": "2021-11-27",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 168.56,
+        "category": "Utilities"
+    },
+    {
+        "date": "2021-06-04",
+        "vendor": "Pharmacy",
+        "product": "Streaming",
+        "amount": 85.02,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-10-11",
+        "vendor": "PureGym",
+        "product": "Flight",
+        "amount": 58.49,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-12-27",
+        "vendor": "British Gas",
+        "product": "Flight",
+        "amount": 379.73,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-08-31",
+        "vendor": "Pharmacy",
+        "product": "Gym Subscription",
+        "amount": 197.84,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-02-04",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 376.03,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-05-13",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 406.55,
+        "category": "Health"
+    },
+    {
+        "date": "2021-07-23",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 114.38,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-08-18",
+        "vendor": "Netflix",
+        "product": "Streaming",
+        "amount": 477.94,
+        "category": "Utilities"
+    },
+    {
+        "date": "2020-02-25",
+        "vendor": "Airbnb",
+        "product": "Groceries",
+        "amount": 403.6,
+        "category": "Utilities"
+    },
+    {
+        "date": "2022-04-23",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 86.22,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-08-02",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 415.76,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-05-30",
+        "vendor": "Morrisons",
+        "product": "Rent Payment",
+        "amount": 199.44,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-03-12",
+        "vendor": "Landlord",
+        "product": "Medication",
+        "amount": 377.37,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-01-03",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 359.53,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-01-28",
+        "vendor": "British Gas",
+        "product": "Groceries",
+        "amount": 176.8,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-01-31",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 98.41,
+        "category": "Health"
+    },
+    {
+        "date": "2020-02-04",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 91.57,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2021-09-18",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 190.58,
+        "category": "Travel"
+    },
+    {
+        "date": "2020-11-19",
+        "vendor": "Pharmacy",
+        "product": "Medication",
+        "amount": 195.51,
+        "category": "Rent"
+    },
+    {
+        "date": "2022-04-11",
+        "vendor": "Airbnb",
+        "product": "Medication",
+        "amount": 226.18,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-05-12",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 146.47,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-03-01",
+        "vendor": "Pharmacy",
+        "product": "Electricity",
+        "amount": 99.76,
+        "category": "Travel"
+    },
+    {
+        "date": "2021-04-24",
+        "vendor": "PureGym",
+        "product": "Streaming",
+        "amount": 385.4,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2022-06-29",
+        "vendor": "PureGym",
+        "product": "Electricity",
+        "amount": 362.07,
+        "category": "Health"
+    },
+    {
+        "date": "2022-02-09",
+        "vendor": "Netflix",
+        "product": "Gym Subscription",
+        "amount": 172.11,
+        "category": "Fitness"
+    },
+    {
+        "date": "2020-05-02",
+        "vendor": "Netflix",
+        "product": "Flight",
+        "amount": 300.03,
+        "category": "Groceries"
+    },
+    {
+        "date": "2020-07-01",
+        "vendor": "Landlord",
+        "product": "Gym Subscription",
+        "amount": 13.2,
+        "category": "Travel"
+    },
+    {
+        "date": "2022-07-20",
+        "vendor": "British Gas",
+        "product": "Gym Subscription",
+        "amount": 265.09,
+        "category": "Fitness"
+    },
+    {
+        "date": "2021-12-31",
+        "vendor": "Morrisons",
+        "product": "Groceries",
+        "amount": 402.98,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2020-03-18",
+        "vendor": "Pharmacy",
+        "product": "Flight",
+        "amount": 32.2,
+        "category": "Rent"
+    },
+    {
+        "date": "2020-04-17",
+        "vendor": "Airbnb",
+        "product": "Streaming",
+        "amount": 414.13,
+        "category": "Health"
+    }
+]
