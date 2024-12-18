@@ -1,16 +1,15 @@
 package com.example.transactionanalyzer.model;
 
 import java.time.LocalDate;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-import lombok.AllArgsConstructor;
-import lombok.NonNull;
-import lombok.Builder;
+
+import lombok.*;
 
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+@Setter
+@Getter
 public class Transaction implements Comparable<Transaction> {
     private LocalDate date;
     private String vendor;

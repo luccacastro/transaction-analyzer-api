@@ -57,8 +57,7 @@ public class TransactionService {
     private List<Transaction> fetchTransactionsForCalculation(String category, LocalDate startDate, LocalDate endDate, String errorMessage) {
         TransactionFilterQuery query = transactionRepository.filterQuery()
                 .byCategory(category)
-                .byDateRange(Optional.ofNullable(startDate).orElse(LocalDate.MIN),
-                        Optional.ofNullable(endDate).orElse(LocalDate.MAX));
+                .byDateRange(startDate, endDate);
 
         if (query.getTransactions().isEmpty()) {
             throw new UnableToCalculateException(formatError(errorMessage, category));
@@ -67,22 +66,26 @@ public class TransactionService {
     }
 
     private double calculateTotalAmount(List<Transaction> transactions) {
-        return transactions.stream().mapToDouble(Transaction::getAmount).sum();
+        double sum = transactions.stream().mapToDouble(Transaction::getAmount).sum();
+        return roundToTwoDecimalPlaces(sum);
     }
 
     private double calculateMaxAmount(List<Transaction> transactions) {
-        return transactions.stream().mapToDouble(Transaction::getAmount).max().orElse(0.0);
+        double max = transactions.stream().mapToDouble(Transaction::getAmount).max().orElse(0.0);
+        return roundToTwoDecimalPlaces(max);
     }
 
     private double calculateMinAmount(List<Transaction> transactions) {
-        return transactions.stream().mapToDouble(Transaction::getAmount).min().orElse(0.0);
+        double min = transactions.stream().mapToDouble(Transaction::getAmount).min().orElse(0.0);
+        return roundToTwoDecimalPlaces(min);
     }
 
     private Map<String, Double> calculateMonthlyAverages(List<Transaction> transactions) {
         return transactions.stream()
                 .collect(Collectors.groupingBy(
                         this::groupByYearMonth,
-                        Collectors.collectingAndThen(Collectors.averagingDouble(Transaction::getAmount),
+                        Collectors.collectingAndThen(
+                                Collectors.averagingDouble(Transaction::getAmount),
                                 this::roundToTwoDecimalPlaces)
                 ));
     }
