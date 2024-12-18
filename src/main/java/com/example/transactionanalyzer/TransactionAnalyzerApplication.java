@@ -13,8 +13,6 @@ import java.util.List;
 public class TransactionAnalyzerApplication {
 
     public static void main(String[] args) {
-//        List<Transaction> transactions = JsonLoader.loadTransactionsFromJson("src/main/resources/transactions.json");
-//        TransactionService transactionService = new TransactionService(transactions);
         SpringApplication.run(TransactionAnalyzerApplication.class, args);
     }
 
