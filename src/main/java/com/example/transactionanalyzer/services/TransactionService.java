@@ -40,12 +40,12 @@ public class TransactionService {
 
     public MaxAmountDTO getMaxAmountForCategory(String category, LocalDate startDate, LocalDate endDate) {
         List<Transaction> transactions = fetchTransactionsForCalculation(category, startDate, endDate, ErrorMessages.UNABLE_TO_CALCULATE_MAX);
-        return new MaxAmountDTO(category, calculateMaxAmount(transactions), adjustDate(startDate), adjustDate(endDate));
+        return new MaxAmountDTO(category, calculateMaxAmount(transactions), startDate, endDate);
     }
 
     public MinAmountDTO getMinAmountForCategory(String category, LocalDate startDate, LocalDate endDate) {
         List<Transaction> transactions = fetchTransactionsForCalculation(category, startDate, endDate, ErrorMessages.UNABLE_TO_CALCULATE_MIN);
-        return new MinAmountDTO(category, calculateMinAmount(transactions), adjustDate(startDate), adjustDate(endDate));
+        return new MinAmountDTO(category, calculateMinAmount(transactions), startDate, endDate);
     }
 
     public MonthlyAverageDTO getMonthlyAverageSpendForCategory(String category, LocalDate startDate, LocalDate endDate) {
@@ -88,10 +88,6 @@ public class TransactionService {
                                 Collectors.averagingDouble(Transaction::getAmount),
                                 this::roundToTwoDecimalPlaces)
                 ));
-    }
-
-    private LocalDate adjustDate(LocalDate date) {
-        return (date == null || date.equals(LocalDate.MIN)) ? null : date;
     }
 
     private String groupByYearMonth(Transaction transaction) {

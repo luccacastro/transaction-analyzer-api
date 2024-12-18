@@ -4,10 +4,6 @@ import java.time.LocalDate;
 
 import lombok.*;
 
-@Data
-@NoArgsConstructor
-@AllArgsConstructor
-@Builder
 @Setter
 @Getter
 public class Transaction implements Comparable<Transaction> {
